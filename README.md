@@ -77,7 +77,7 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rousanraahat/echo-voice-support.git
+git clone https://github.com/Fronter-xd/echo-voice-support.git
 cd echo-voice-support
 ```
 
