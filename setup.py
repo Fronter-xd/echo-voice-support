@@ -1,0 +1,20 @@
+{
+    "name": "echo-voice-support",
+    "version": "1.0.0",
+    "description": "Real-time AI voice support chatbot with local STT, LLM, and TTS",
+    "requires": {
+        "python": ">=3.10",
+        "edge-tts": ">=6.1.0",
+        "ollama": ">=0.1.0",
+        "faster-whisper": ">=0.10.0",
+        "pyaudio": ">=0.2.14",
+        "websockets": ">=12.0",
+        "numpy": ">=1.26.0",
+        "soundfile": ">=0.12.1",
+        "pydub": ">=0.25.1",
+        "asyncio": ">=3.4.3",
+        "aiohttp": ">=3.9.0",
+        "structlog": ">=24.0.0",
+        "python-dotenv": ">=1.0.0",
+    },
+}

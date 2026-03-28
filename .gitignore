@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+
+# Models (downloaded at runtime)
+models/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
